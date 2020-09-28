@@ -1,2 +1,3 @@
 # sqlwebapp
-sql web application
+simple flask sql web application
+used to explore flask and the sqlalchemy library
